@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/permit2-sdk",
+  "name": "@miljan9602/dswap-permit2-sdk",
   "version": "1.2.0",
   "description": "An sdk for interacting with permit2.",
   "publishConfig": {
@@ -19,11 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/permit2-sdk.git"
+    "url": "https://github.com/miljan9602/dswap-permit2-sdk.git"
   },
   "keywords": [
-    "uniswap",
-    "ethereum"
+    "dragonswap",
+    "sei"
   ],
   "license": "MIT",
   "dependencies": {
